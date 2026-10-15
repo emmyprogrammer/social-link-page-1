@@ -1,7 +1,8 @@
 /* phone styles */
 @media(min-width: 370px) {
     .profile {
-        max-width: 500px;
+        max-width: 600px;
+        width: 60%;
     }
 
     .job {
