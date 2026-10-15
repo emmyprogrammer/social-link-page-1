@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Social links profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -74,3 +75,6 @@ i used chatGPT in desktop development of this project. i used it when i need mor
 
 - Website - [Lawal Emmanuel](https://www.your-site.com)
 - Frontend Mentor - [@emmyprogrammer](https://www.frontendmentor.io/profile/emmyprogrammer)
+=======
+# social-link-page-1
+>>>>>>> 8cc60ac845f4780493a729def6038cf2241ead55
