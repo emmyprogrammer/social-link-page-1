@@ -1,0 +1,46 @@
+/* phone styles */
+@media(min-width: 370px) {
+    .profile {
+        max-width: 500px;
+    }
+
+    .job {
+        font-size: 10px;
+    }
+}
+
+/* tablet styles */
+@media(min-width: 768px) {
+    .profile {
+        max-width: 700px;
+    }
+}
+
+/* Desktop styles */
+@media(min-width: 1200px) {
+    .profile {
+        width: 20%;
+        max-width: 400px;
+    }
+
+    .name {
+        font-size: 19px;
+    }
+
+    .location {
+        font-size: 13px;
+    }
+
+    .job {
+        font-size: 14px;
+    }
+
+    .github, .frontend, .linkedl, .twitter, .instagram {
+    font-size: 12.5px;
+    padding: 13px;
+    }
+
+    .github:hover, .frontend:hover, .linkedl:hover, .twitter:hover, .instagram:hover {
+        font-size: 12.5px;
+    }
+}
