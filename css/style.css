@@ -19,10 +19,10 @@
   transform: translate(-50%, -50%);
   border-radius: 20px;    
         margin: 0 auto;
-        max-width: 375px;
+        max-width: 400px;
         padding: 20px;
         text-align: center;
-        width: 40%;
+        width: 50%;
     }
 
     .profile-img-1 {
